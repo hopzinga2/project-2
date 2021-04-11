@@ -1,0 +1,124 @@
+*{ /*This styles the nav bar*/
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(25, 24, 28);
+}
+
+#nav_bar{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    background-color: wheat;
+    word-spacing: 20px;
+}
+
+.nav_text{
+
+    color: royalblue;
+    text-decoration: none;
+    display: inline-block;
+    letter-spacing: 2px;
+}
+
+.cont{
+
+    color: teal;
+    background-color: rgb(15, 6, 74);
+    border-radius: 20px;
+    background-image: url(img/Background.png);
+
+}
+
+.nav_text:hover{
+
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+.nav_text:active{
+
+    background-color: green;
+
+}
+
+/*This is the end of the styling applied to the nav bar*/
+
+
+#discord{
+
+    width: 128px;
+    margin: 300px;
+    margin-left: 10px;
+    display: inline-block;
+}
+
+#discord:hover{
+
+    background-color: rgb(114, 137, 217);
+    border-radius: 25px;
+
+}
+
+#github{
+
+    width: 128px;
+    margin: 300px;
+    margin-left: -200px;
+    display: inline-block;
+}
+
+#github:hover{
+
+    background-color: lightgrey;
+    border-radius: 50px;
+
+}
+
+#redit{
+
+    width: 128px;
+    margin: 300px;
+    margin-left: -180px;
+    display: inline-block;
+}    
+
+#redit:hover{
+
+    background-color: lightcoral;
+    border-radius: 50px;
+
+}
+
+#twitter{
+
+    width: 128px;
+    margin-bottom: 290px;
+    margin-left: -200px;
+    display: inline-block;
+}
+
+#twitter:hover{
+
+    background-color: lightblue;
+    border-radius: 50px;
+
+}
+
+
+#youtube{
+
+    width: 128px;
+    margin-bottom: 290px;
+    margin-left: 150px;
+    display: inline-block;    
+
+}
+
+#youtube:hover{
+
+    background-color: white;
+    border-radius: 50px;
+
+}

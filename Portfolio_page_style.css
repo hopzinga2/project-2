@@ -1,0 +1,59 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    background-color: rgb(25, 24, 28);
+
+}
+
+#nav_bar{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+    word-spacing: 20px;
+    position: sticky;
+}
+
+.nav_text{
+
+    color: royalblue;
+    text-decoration: none;
+
+}
+
+.pot{
+
+    color: teal;
+    background-color: rgb(15, 6, 74);
+    border-radius: 20px;
+    background-image: url(img/Background.png);
+
+}
+
+.nav_text:hover{
+
+    background-color: black;
+    border-radius: 20px;
+
+}
+
+#ERROR{
+
+    color: yellowgreen;
+    margin: 100px;
+    font-size: small;
+
+}
+
+#img{
+
+    margin: 200px;
+
+}
+
+img:hover{
+
+    background-color: black;
+    border-radius: 25px;
+
+}
