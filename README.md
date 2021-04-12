@@ -1,4 +1,8 @@
-# project2.github.io
-My second project
+#Weclome to my second project
 
-##Hope you like it
+
+##This is my second website project
+
+If you would like to see my first project just go to my reps.
+
+Hope you can tell me how to improve
